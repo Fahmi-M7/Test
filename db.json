@@ -24,6 +24,11 @@
       "title": "Product 5",
       "price": "389",
       "id": 5
+    },
+    {
+      "title": "RINSO",
+      "price": "5000",
+      "id": 6
     }
   ]
 }
