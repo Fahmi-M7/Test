@@ -1,34 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
-      "title": "Product 1",
-      "price": 899
-    },
-    {
-      "id": 2,
-      "title": "Product 2",
-      "price": 982
-    },
-    {
-      "id": 3,
-      "title": "Product 3",
-      "price": 322
-    },
-    {
-      "id": 4,
-      "title": "Product 4",
-      "price": 763
-    },
-    {
-      "title": "Product 5",
-      "price": "389",
+      "title": "Sabun Mandi",
+      "price": "10000",
       "id": 5
     },
     {
       "title": "RINSO",
       "price": "5000",
       "id": 6
+    },
+    {
+      "title": "Garam",
+      "price": "4000",
+      "id": 8
+    },
+    {
+      "title": "Masako",
+      "price": "8500",
+      "id": 9
     }
   ]
 }
